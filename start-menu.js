@@ -1,1 +1,2 @@
-
+//Setting Variables
+let start;
